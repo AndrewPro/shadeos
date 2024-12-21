@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>First on ShadeOS</title>
+    <link>http://localhost:1313/tags/first/</link>
+    <description>Recent content in First on ShadeOS</description>
+    <image>
+      <title>ShadeOS</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2024 17:48:24 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me 😁</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;h2 id=&#34;personal-interests&#34;&gt;Personal Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Passionate about &lt;strong&gt;computers&lt;/strong&gt;, the &lt;strong&gt;Pacific Northwest&lt;/strong&gt;, &lt;strong&gt;hiking&lt;/strong&gt;, &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;DevOps&lt;/strong&gt;, and &lt;strong&gt;ATVs&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Enjoys &lt;strong&gt;kid&amp;rsquo;s animated movies&lt;/strong&gt; and loves exploring &lt;strong&gt;new entertainment&lt;/strong&gt;, like &lt;strong&gt;riding motorbikes&lt;/strong&gt; and eating &lt;strong&gt;healthy food&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tech-and-home-lab&#34;&gt;Tech and Home Lab&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avid user of &lt;strong&gt;Pop!_OS Linux&lt;/strong&gt; and familiar with &lt;strong&gt;Debian-based distributions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Experienced with &lt;strong&gt;Docker&lt;/strong&gt;, &lt;strong&gt;Traefik proxy&lt;/strong&gt;, &lt;strong&gt;Proxmox&lt;/strong&gt;, &lt;strong&gt;OPNsense&lt;/strong&gt;, and &lt;strong&gt;Cloudflare&lt;/strong&gt; for managing and optimizing a home lab.&lt;/li&gt;
+&lt;li&gt;Hosting various &lt;strong&gt;self-hosted services&lt;/strong&gt;, such as:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Traefik-based services&lt;/strong&gt; with TLS and domain management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home servers&lt;/strong&gt; with VLANs and ad-blocking setups using &lt;strong&gt;Pi-hole&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Currently working on integrating &lt;strong&gt;Home Assistant&lt;/strong&gt;, &lt;strong&gt;Docker&lt;/strong&gt;, and &lt;strong&gt;Frigate&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Networking gear includes &lt;strong&gt;Unifi access points&lt;/strong&gt;, switches, and a &lt;strong&gt;Dream Machine Pro Max&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Loves experimenting with open-source tools and solving &lt;strong&gt;network and home lab challenges&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hobbies-and-gaming&#34;&gt;Hobbies and Gaming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A fan of &lt;strong&gt;modded Minecraft&lt;/strong&gt;, &lt;strong&gt;Factorio&lt;/strong&gt;, &lt;strong&gt;Astroneer&lt;/strong&gt;, &lt;strong&gt;Slime Rancher&lt;/strong&gt;, &lt;strong&gt;Subnautica&lt;/strong&gt;, &lt;strong&gt;TF2&lt;/strong&gt;, and &lt;strong&gt;Hollow Knight&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Enjoys playing games with quality-of-life improvements and optimizations, often using modpacks like &lt;strong&gt;Fabulously Optimized&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Offline Minecraft server host with a focus on user customization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lifestyle-and-self-improvement&#34;&gt;Lifestyle and Self-Improvement&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Motivated by personal growth and creating daily routines to stay productive, including:
+&lt;ul&gt;
+&lt;li&gt;Running a mile every morning.&lt;/li&gt;
+&lt;li&gt;Cleaning and organizing spaces daily.&lt;/li&gt;
+&lt;li&gt;Following a &lt;strong&gt;low-carb diet&lt;/strong&gt; and exploring healthy meals.&lt;/li&gt;
+&lt;li&gt;Developing a &lt;strong&gt;workout schedule&lt;/strong&gt; with &lt;strong&gt;dual-purpose supersets&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Practicing mindfulness and habits like &lt;strong&gt;Bible reading&lt;/strong&gt;, &lt;strong&gt;prayer&lt;/strong&gt;, and &lt;strong&gt;fasting&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;career-and-projects&#34;&gt;Career and Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently focused on creating a blog to share thoughts and help others build &lt;strong&gt;home labs&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Interested in building and optimizing &lt;strong&gt;NAS servers&lt;/strong&gt; for reliability and longevity.&lt;/li&gt;
+&lt;li&gt;Enjoys simple &lt;strong&gt;electronics experiments&lt;/strong&gt; and learning new ways to integrate technology into everyday life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fun-facts&#34;&gt;Fun Facts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Big fan of &lt;strong&gt;custom mechanical keyboards&lt;/strong&gt; with a premium feel, especially full-sized ones with &lt;strong&gt;wooden finishes&lt;/strong&gt; or &lt;strong&gt;short keycaps&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Enjoys organizing music notes for celebrations like &lt;strong&gt;Easter&lt;/strong&gt;, &lt;strong&gt;Christmas&lt;/strong&gt;, and &lt;strong&gt;Thanksgiving&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;First-time traveler to &lt;strong&gt;China&lt;/strong&gt;, excited to explore the culture and experience new adventures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to connect with me if you share similar interests or want to collaborate on a project!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume 📜</title>
+      <link>http://localhost:1313/posts/resmue/</link>
+      <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
+      <guid>http://localhost:1313/posts/resmue/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;andrew-shutov&#34;&gt;Andrew Shutov&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:1254692312alex@gmail.com&#34;&gt;1254692312alex@gmail.com&lt;/a&gt; | [Your Phone Number] | [Your LinkedIn/GitHub Profile] | [Your Location]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Enthusiastic and detail-oriented tech enthusiast with a strong passion for home labs, DevOps, networking, and open-source technologies. Skilled in system administration, containerization, and self-hosted solutions, with a focus on efficiency and reliability. Eager to contribute to innovative projects and continuous learning opportunities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;: Linux (Pop!_OS, Debian-based distributions)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking&lt;/strong&gt;: OPNsense, VLAN setup, Unifi access points/switches&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Containerization&lt;/strong&gt;: Docker, Traefik proxy, Portainer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation&lt;/strong&gt;: Home Assistant, Frigate integration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hosting &amp;amp; Development&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Self-hosted services&lt;/li&gt;
+&lt;li&gt;Cloudflare DNS management&lt;/li&gt;
+&lt;li&gt;TLS/SSL certificate management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt;: Experience with Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Proxmox, Pi-hole, WireGuard VPN, Tailscale&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Writing&lt;/strong&gt;: Blog creation for home lab enthusiasts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;home-lab-enthusiast&#34;&gt;&lt;strong&gt;Home Lab Enthusiast&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Self-Directed | Ongoing&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>This is the first post of the blog, and I am trying and testing out everything. I also want to keep this page as refrence for my future self. This Where I am typing is the description tag in the post header</description>
+    </item>
+  </channel>
+</rss>
