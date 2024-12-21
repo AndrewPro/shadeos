@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ShadeOS</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://AndrewPro.github.io/shadeos/posts/</link>
     <description>Recent content in Posts on ShadeOS</description>
     <image>
       <title>ShadeOS</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://AndrewPro.github.io/shadeos/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://AndrewPro.github.io/shadeos/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Dec 2024 17:48:24 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://AndrewPro.github.io/shadeos/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 😁</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://AndrewPro.github.io/shadeos/posts/about/</link>
       <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://AndrewPro.github.io/shadeos/posts/about/</guid>
       <description>&lt;h2 id=&#34;personal-interests&#34;&gt;Personal Interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Passionate about &lt;strong&gt;computers&lt;/strong&gt;, the &lt;strong&gt;Pacific Northwest&lt;/strong&gt;, &lt;strong&gt;hiking&lt;/strong&gt;, &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;DevOps&lt;/strong&gt;, and &lt;strong&gt;ATVs&lt;/strong&gt;.&lt;/li&gt;
@@ -71,9 +71,9 @@
     </item>
     <item>
       <title>Resume 📜</title>
-      <link>http://localhost:1313/posts/resmue/</link>
+      <link>https://AndrewPro.github.io/shadeos/posts/resmue/</link>
       <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
-      <guid>http://localhost:1313/posts/resmue/</guid>
+      <guid>https://AndrewPro.github.io/shadeos/posts/resmue/</guid>
       <description>&lt;hr&gt;
 &lt;h1 id=&#34;andrew-shutov&#34;&gt;Andrew Shutov&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:1254692312alex@gmail.com&#34;&gt;1254692312alex@gmail.com&lt;/a&gt; | [Your Phone Number] | [Your LinkedIn/GitHub Profile] | [Your Location]&lt;/strong&gt;&lt;/p&gt;
@@ -105,9 +105,9 @@
     </item>
     <item>
       <title>Testing</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://AndrewPro.github.io/shadeos/posts/test/</link>
       <pubDate>Fri, 20 Dec 2024 17:48:24 -0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://AndrewPro.github.io/shadeos/posts/test/</guid>
       <description>This is the first post of the blog, and I am trying and testing out everything. I also want to keep this page as refrence for my future self. This Where I am typing is the description tag in the post header</description>
     </item>
   </channel>

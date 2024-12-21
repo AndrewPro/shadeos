@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://AndrewPro.github.io/shadeos/sitemap.xml
