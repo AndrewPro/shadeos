@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://AndrewPro.github.io/shadeos/sitemap.xml
+Sitemap: https://andrewpro.github.io/shadeos/sitemap.xml
